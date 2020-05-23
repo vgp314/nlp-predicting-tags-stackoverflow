@@ -25,4 +25,4 @@ In this task you will deal with a dataset of post titles from StackOverflow. You
 ## Results and Conclusions
 
 - We evaluated each model with F1 weighted score, and submitted on coursera platform. 
-- The best model had f1-score = 0.65 and passed on coursera evaluation.
+- The best model had f1-score = 0.65 on validation dataset and passed on coursera evaluation.
